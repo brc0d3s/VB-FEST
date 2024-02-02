@@ -1,0 +1,43 @@
+{
+    "sqltools.connections": [
+        {
+            "mssqlOptions": {
+                "appName": "SQLTools",
+                "useUTC": true,
+                "encrypt": true
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 1433,
+            "driver": "MSSQL",
+            "username": "sa",
+            "password": "9vg2020#",
+            "database": "MEDICAL",
+            "name": "SQL Server"
+        },
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "Postgres",
+            "database": "ADO",
+            "username": "postgres",
+            "password": "9vg2020#"
+        },
+        {
+            "mysqlOptions": {
+                "authProtocol": "default",
+                "enableSsl": "Disabled"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "MYSQL",
+            "database": "sas",
+            "username": "root",
+            "password": ""
+        }
+    ]
+}
