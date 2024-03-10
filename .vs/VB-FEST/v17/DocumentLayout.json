@@ -3,78 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\brc0d3s\\Desktop\\VB-FEST\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{17FF18A6-4171-4576-9CD4-A9FE2534DEE3}|VB-FEST\\VB-FEST.vbproj|c:\\users\\brc0d3s\\desktop\\vb-fest\\vb-fest\\operator_precedence.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{17FF18A6-4171-4576-9CD4-A9FE2534DEE3}|VB-FEST\\VB-FEST.vbproj|solutionrelative:vb-fest\\operator_precedence.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+      "AbsoluteMoniker": "D:0:0:{7B75728A-A482-400B-A083-CC194CBBF2AC}|ADO.NET\\ADO.NET.vbproj|c:\\users\\brc0d3s\\desktop\\vb-fest\\ado.net\\crud.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{7B75728A-A482-400B-A083-CC194CBBF2AC}|ADO.NET\\ADO.NET.vbproj|solutionrelative:ado.net\\crud.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{17FF18A6-4171-4576-9CD4-A9FE2534DEE3}|VB-FEST\\VB-FEST.vbproj|c:\\users\\brc0d3s\\desktop\\vb-fest\\vb-fest\\misc_operator.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{17FF18A6-4171-4576-9CD4-A9FE2534DEE3}|VB-FEST\\VB-FEST.vbproj|solutionrelative:vb-fest\\misc_operator.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{17FF18A6-4171-4576-9CD4-A9FE2534DEE3}|VB-FEST\\VB-FEST.vbproj|c:\\users\\brc0d3s\\desktop\\vb-fest\\vb-fest\\assign_operator.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{17FF18A6-4171-4576-9CD4-A9FE2534DEE3}|VB-FEST\\VB-FEST.vbproj|solutionrelative:vb-fest\\assign_operator.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{17FF18A6-4171-4576-9CD4-A9FE2534DEE3}|VB-FEST\\VB-FEST.vbproj|c:\\users\\brc0d3s\\desktop\\vb-fest\\vb-fest\\bitshift_operator.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{17FF18A6-4171-4576-9CD4-A9FE2534DEE3}|VB-FEST\\VB-FEST.vbproj|solutionrelative:vb-fest\\bitshift_operator.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{17FF18A6-4171-4576-9CD4-A9FE2534DEE3}|VB-FEST\\VB-FEST.vbproj|c:\\users\\brc0d3s\\desktop\\vb-fest\\vb-fest\\logic_bitwise.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{17FF18A6-4171-4576-9CD4-A9FE2534DEE3}|VB-FEST\\VB-FEST.vbproj|solutionrelative:vb-fest\\logic_bitwise.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{17FF18A6-4171-4576-9CD4-A9FE2534DEE3}|VB-FEST\\VB-FEST.vbproj|c:\\users\\brc0d3s\\desktop\\vb-fest\\vb-fest\\comparison_operator.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{17FF18A6-4171-4576-9CD4-A9FE2534DEE3}|VB-FEST\\VB-FEST.vbproj|solutionrelative:vb-fest\\comparison_operator.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{17FF18A6-4171-4576-9CD4-A9FE2534DEE3}|VB-FEST\\VB-FEST.vbproj|c:\\users\\brc0d3s\\desktop\\vb-fest\\vb-fest\\arithmetic_operator.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{17FF18A6-4171-4576-9CD4-A9FE2534DEE3}|VB-FEST\\VB-FEST.vbproj|solutionrelative:vb-fest\\arithmetic_operator.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{17FF18A6-4171-4576-9CD4-A9FE2534DEE3}|VB-FEST\\VB-FEST.vbproj|c:\\users\\brc0d3s\\desktop\\vb-fest\\vb-fest\\operators.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{17FF18A6-4171-4576-9CD4-A9FE2534DEE3}|VB-FEST\\VB-FEST.vbproj|solutionrelative:vb-fest\\operators.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{17FF18A6-4171-4576-9CD4-A9FE2534DEE3}|VB-FEST\\VB-FEST.vbproj|c:\\users\\brc0d3s\\desktop\\vb-fest\\vb-fest\\global_scope.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{17FF18A6-4171-4576-9CD4-A9FE2534DEE3}|VB-FEST\\VB-FEST.vbproj|solutionrelative:vb-fest\\global_scope.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|VB-FEST||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{17FF18A6-4171-4576-9CD4-A9FE2534DEE3}|VB-FEST\\VB-FEST.vbproj|c:\\users\\brc0d3s\\desktop\\vb-fest\\vb-fest\\module_scope.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{17FF18A6-4171-4576-9CD4-A9FE2534DEE3}|VB-FEST\\VB-FEST.vbproj|solutionrelative:vb-fest\\module_scope.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{17FF18A6-4171-4576-9CD4-A9FE2534DEE3}|VB-FEST\\VB-FEST.vbproj|c:\\users\\brc0d3s\\desktop\\vb-fest\\vb-fest\\constants.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{17FF18A6-4171-4576-9CD4-A9FE2534DEE3}|VB-FEST\\VB-FEST.vbproj|solutionrelative:vb-fest\\constants.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{17FF18A6-4171-4576-9CD4-A9FE2534DEE3}|VB-FEST\\VB-FEST.vbproj|c:\\users\\brc0d3s\\desktop\\vb-fest\\vb-fest\\local_scope.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{17FF18A6-4171-4576-9CD4-A9FE2534DEE3}|VB-FEST\\VB-FEST.vbproj|solutionrelative:vb-fest\\local_scope.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{17FF18A6-4171-4576-9CD4-A9FE2534DEE3}|VB-FEST\\VB-FEST.vbproj|c:\\users\\brc0d3s\\desktop\\vb-fest\\vb-fest\\variables.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{17FF18A6-4171-4576-9CD4-A9FE2534DEE3}|VB-FEST\\VB-FEST.vbproj|solutionrelative:vb-fest\\variables.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{17FF18A6-4171-4576-9CD4-A9FE2534DEE3}|VB-FEST\\VB-FEST.vbproj|c:\\users\\brc0d3s\\desktop\\vb-fest\\vb-fest\\type_conversion_functions.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{17FF18A6-4171-4576-9CD4-A9FE2534DEE3}|VB-FEST\\VB-FEST.vbproj|solutionrelative:vb-fest\\type_conversion_functions.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{17FF18A6-4171-4576-9CD4-A9FE2534DEE3}|VB-FEST\\VB-FEST.vbproj|c:\\users\\brc0d3s\\desktop\\vb-fest\\vb-fest\\data_type.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{17FF18A6-4171-4576-9CD4-A9FE2534DEE3}|VB-FEST\\VB-FEST.vbproj|solutionrelative:vb-fest\\data_type.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{17FF18A6-4171-4576-9CD4-A9FE2534DEE3}|VB-FEST\\VB-FEST.vbproj|c:\\users\\brc0d3s\\desktop\\vb-fest\\vb-fest\\helloworld.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{17FF18A6-4171-4576-9CD4-A9FE2534DEE3}|VB-FEST\\VB-FEST.vbproj|solutionrelative:vb-fest\\helloworld.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{17FF18A6-4171-4576-9CD4-A9FE2534DEE3}|VB-FEST\\VB-FEST.vbproj|c:\\users\\brc0d3s\\desktop\\vb-fest\\vb-fest\\identifiers.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{17FF18A6-4171-4576-9CD4-A9FE2534DEE3}|VB-FEST\\VB-FEST.vbproj|solutionrelative:vb-fest\\identifiers.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{17FF18A6-4171-4576-9CD4-A9FE2534DEE3}|VB-FEST\\VB-FEST.vbproj|c:\\users\\brc0d3s\\desktop\\vb-fest\\vb-fest\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|8998e48e-b89a-4034-b66e-353d8c1fdc2e"
+      "AbsoluteMoniker": "D:0:0:{7B75728A-A482-400B-A083-CC194CBBF2AC}|ADO.NET\\ADO.NET.vbproj|C:\\Users\\brc0d3s\\Desktop\\VB-FEST\\ado.net\\crud.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{7B75728A-A482-400B-A083-CC194CBBF2AC}|ADO.NET\\ADO.NET.vbproj|solutionrelative:ado.net\\crud.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     }
   ],
   "DocumentGroupContainers": [
@@ -84,240 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Operator_Precedence.vb",
-              "DocumentMoniker": "C:\\Users\\brc0d3s\\Desktop\\VB-FEST\\VB-FEST\\Operator_Precedence.vb",
-              "RelativeDocumentMoniker": "VB-FEST\\Operator_Precedence.vb",
-              "ToolTip": "C:\\Users\\brc0d3s\\Desktop\\VB-FEST\\VB-FEST\\Operator_Precedence.vb",
-              "RelativeToolTip": "VB-FEST\\Operator_Precedence.vb",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAALAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-03-09T05:17:37.721Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Misc_Operator.vb",
-              "DocumentMoniker": "C:\\Users\\brc0d3s\\Desktop\\VB-FEST\\VB-FEST\\Misc_Operator.vb",
-              "RelativeDocumentMoniker": "VB-FEST\\Misc_Operator.vb",
-              "ToolTip": "C:\\Users\\brc0d3s\\Desktop\\VB-FEST\\VB-FEST\\Misc_Operator.vb",
-              "RelativeToolTip": "VB-FEST\\Misc_Operator.vb",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAALAAAA",
+              "Title": "CRUD.vb",
+              "DocumentMoniker": "C:\\Users\\brc0d3s\\Desktop\\VB-FEST\\ADO.NET\\CRUD.vb",
+              "RelativeDocumentMoniker": "ADO.NET\\CRUD.vb",
+              "ToolTip": "C:\\Users\\brc0d3s\\Desktop\\VB-FEST\\ADO.NET\\CRUD.vb",
+              "RelativeToolTip": "ADO.NET\\CRUD.vb",
+              "ViewState": "AQIAALoAAAAAAAAAAAAcwMkAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-03-09T05:14:24.703Z",
+              "WhenOpened": "2024-03-09T14:24:06.511Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Assign_Operator.vb",
-              "DocumentMoniker": "C:\\Users\\brc0d3s\\Desktop\\VB-FEST\\VB-FEST\\Assign_Operator.vb",
-              "RelativeDocumentMoniker": "VB-FEST\\Assign_Operator.vb",
-              "ToolTip": "C:\\Users\\brc0d3s\\Desktop\\VB-FEST\\VB-FEST\\Assign_Operator.vb",
-              "RelativeToolTip": "VB-FEST\\Assign_Operator.vb",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAALAAAA",
+              "DocumentIndex": 0,
+              "Title": "CRUD.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\brc0d3s\\Desktop\\VB-FEST\\ADO.NET\\CRUD.vb",
+              "RelativeDocumentMoniker": "ADO.NET\\CRUD.vb",
+              "ToolTip": "C:\\Users\\brc0d3s\\Desktop\\VB-FEST\\ADO.NET\\CRUD.vb [Design]",
+              "RelativeToolTip": "ADO.NET\\CRUD.vb [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-03-09T05:09:00.977Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "BitShift_Operator.vb",
-              "DocumentMoniker": "C:\\Users\\brc0d3s\\Desktop\\VB-FEST\\VB-FEST\\BitShift_Operator.vb",
-              "RelativeDocumentMoniker": "VB-FEST\\BitShift_Operator.vb",
-              "ToolTip": "C:\\Users\\brc0d3s\\Desktop\\VB-FEST\\VB-FEST\\BitShift_Operator.vb",
-              "RelativeToolTip": "VB-FEST\\BitShift_Operator.vb",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAALAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-03-09T05:07:09.171Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Logic_Bitwise.vb",
-              "DocumentMoniker": "C:\\Users\\brc0d3s\\Desktop\\VB-FEST\\VB-FEST\\Logic_Bitwise.vb",
-              "RelativeDocumentMoniker": "VB-FEST\\Logic_Bitwise.vb",
-              "ToolTip": "C:\\Users\\brc0d3s\\Desktop\\VB-FEST\\VB-FEST\\Logic_Bitwise.vb",
-              "RelativeToolTip": "VB-FEST\\Logic_Bitwise.vb",
-              "ViewState": "AQIAAB0AAAAAAAAAAAAcwDIAAAALAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-03-09T05:04:57.552Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Comparison_Operator.vb",
-              "DocumentMoniker": "C:\\Users\\brc0d3s\\Desktop\\VB-FEST\\VB-FEST\\Comparison_Operator.vb",
-              "RelativeDocumentMoniker": "VB-FEST\\Comparison_Operator.vb",
-              "ToolTip": "C:\\Users\\brc0d3s\\Desktop\\VB-FEST\\VB-FEST\\Comparison_Operator.vb",
-              "RelativeToolTip": "VB-FEST\\Comparison_Operator.vb",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAgwC0AAAALAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-03-09T04:55:56.72Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Arithmetic_Operator.vb",
-              "DocumentMoniker": "C:\\Users\\brc0d3s\\Desktop\\VB-FEST\\VB-FEST\\Arithmetic_Operator.vb",
-              "RelativeDocumentMoniker": "VB-FEST\\Arithmetic_Operator.vb",
-              "ToolTip": "C:\\Users\\brc0d3s\\Desktop\\VB-FEST\\VB-FEST\\Arithmetic_Operator.vb",
-              "RelativeToolTip": "VB-FEST\\Arithmetic_Operator.vb",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAcwCQAAAALAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-03-09T04:53:46.458Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Operators.vb",
-              "DocumentMoniker": "C:\\Users\\brc0d3s\\Desktop\\VB-FEST\\VB-FEST\\Operators.vb",
-              "RelativeDocumentMoniker": "VB-FEST\\Operators.vb",
-              "ToolTip": "C:\\Users\\brc0d3s\\Desktop\\VB-FEST\\VB-FEST\\Operators.vb",
-              "RelativeToolTip": "VB-FEST\\Operators.vb",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-03-09T04:51:54.373Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Global_scope.vb",
-              "DocumentMoniker": "C:\\Users\\brc0d3s\\Desktop\\VB-FEST\\VB-FEST\\Global_scope.vb",
-              "RelativeDocumentMoniker": "VB-FEST\\Global_scope.vb",
-              "ToolTip": "C:\\Users\\brc0d3s\\Desktop\\VB-FEST\\VB-FEST\\Global_scope.vb",
-              "RelativeToolTip": "VB-FEST\\Global_scope.vb",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA8AAAALAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-03-09T04:43:47.095Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "VB-FEST",
-              "DocumentMoniker": "C:\\Users\\brc0d3s\\Desktop\\VB-FEST\\VB-FEST\\VB-FEST.vbproj",
-              "RelativeDocumentMoniker": "VB-FEST\\VB-FEST.vbproj",
-              "ToolTip": "C:\\Users\\brc0d3s\\Desktop\\VB-FEST\\VB-FEST\\VB-FEST.vbproj",
-              "RelativeToolTip": "VB-FEST\\VB-FEST.vbproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-03-09T04:33:36.485Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Module_scope.vb",
-              "DocumentMoniker": "C:\\Users\\brc0d3s\\Desktop\\VB-FEST\\VB-FEST\\Module_scope.vb",
-              "RelativeDocumentMoniker": "VB-FEST\\Module_scope.vb",
-              "ToolTip": "C:\\Users\\brc0d3s\\Desktop\\VB-FEST\\VB-FEST\\Module_scope.vb",
-              "RelativeToolTip": "VB-FEST\\Module_scope.vb",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAowBgAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-03-09T04:29:23.556Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Local_Scope.vb",
-              "DocumentMoniker": "C:\\Users\\brc0d3s\\Desktop\\VB-FEST\\VB-FEST\\Local_Scope.vb",
-              "RelativeDocumentMoniker": "VB-FEST\\Local_Scope.vb",
-              "ToolTip": "C:\\Users\\brc0d3s\\Desktop\\VB-FEST\\VB-FEST\\Local_Scope.vb",
-              "RelativeToolTip": "VB-FEST\\Local_Scope.vb",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAALAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-03-09T04:21:02.003Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Constants.vb",
-              "DocumentMoniker": "C:\\Users\\brc0d3s\\Desktop\\VB-FEST\\VB-FEST\\Constants.vb",
-              "RelativeDocumentMoniker": "VB-FEST\\Constants.vb",
-              "ToolTip": "C:\\Users\\brc0d3s\\Desktop\\VB-FEST\\VB-FEST\\Constants.vb",
-              "RelativeToolTip": "VB-FEST\\Constants.vb",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAALAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-03-09T01:37:03.924Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Variables.vb",
-              "DocumentMoniker": "C:\\Users\\brc0d3s\\Desktop\\VB-FEST\\VB-FEST\\Variables.vb",
-              "RelativeDocumentMoniker": "VB-FEST\\Variables.vb",
-              "ToolTip": "C:\\Users\\brc0d3s\\Desktop\\VB-FEST\\VB-FEST\\Variables.vb",
-              "RelativeToolTip": "VB-FEST\\Variables.vb",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAcwB8AAAALAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-03-09T01:34:59.164Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Type_Conversion_Functions.vb",
-              "DocumentMoniker": "C:\\Users\\brc0d3s\\Desktop\\VB-FEST\\VB-FEST\\Type_Conversion_Functions.vb",
-              "RelativeDocumentMoniker": "VB-FEST\\Type_Conversion_Functions.vb",
-              "ToolTip": "C:\\Users\\brc0d3s\\Desktop\\VB-FEST\\VB-FEST\\Type_Conversion_Functions.vb",
-              "RelativeToolTip": "VB-FEST\\Type_Conversion_Functions.vb",
-              "ViewState": "AQIAABkAAAAAAAAAAAAcwC4AAAALAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-03-09T01:24:05.754Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Data_type.vb",
-              "DocumentMoniker": "C:\\Users\\brc0d3s\\Desktop\\VB-FEST\\VB-FEST\\Data_type.vb",
-              "RelativeDocumentMoniker": "VB-FEST\\Data_type.vb",
-              "ToolTip": "C:\\Users\\brc0d3s\\Desktop\\VB-FEST\\VB-FEST\\Data_type.vb",
-              "RelativeToolTip": "VB-FEST\\Data_type.vb",
-              "ViewState": "AQIAABAAAAAAAAAAAAAgwA4AAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-03-09T01:17:04.574Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Identifiers.vb",
-              "DocumentMoniker": "C:\\Users\\brc0d3s\\Desktop\\VB-FEST\\VB-FEST\\Identifiers.vb",
-              "RelativeDocumentMoniker": "VB-FEST\\Identifiers.vb",
-              "ToolTip": "C:\\Users\\brc0d3s\\Desktop\\VB-FEST\\VB-FEST\\Identifiers.vb",
-              "RelativeToolTip": "VB-FEST\\Identifiers.vb",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-03-09T01:03:54.933Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "HelloWorld.vb",
-              "DocumentMoniker": "C:\\Users\\brc0d3s\\Desktop\\VB-FEST\\VB-FEST\\HelloWorld.vb",
-              "RelativeDocumentMoniker": "VB-FEST\\HelloWorld.vb",
-              "ToolTip": "C:\\Users\\brc0d3s\\Desktop\\VB-FEST\\VB-FEST\\HelloWorld.vb",
-              "RelativeToolTip": "VB-FEST\\HelloWorld.vb",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-03-09T00:45:08.46Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-09T14:17:44.2Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }

@@ -6,7 +6,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{17FF18A6-4171-4576-9CD4-A9FE2534DEE3}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <StartupObject>VB_FEST.Global_scope</StartupObject>
+    <StartupObject>VB_FEST.Go_To_Statement</StartupObject>
     <RootNamespace>VB_FEST</RootNamespace>
     <AssemblyName>VB-FEST</AssemblyName>
     <FileAlignment>512</FileAlignment>
@@ -74,10 +74,22 @@
     <Compile Include="BitShift_Operator.vb" />
     <Compile Include="Comparison_Operator.vb" />
     <Compile Include="Constants.vb" />
+    <Compile Include="Continue_Statement.vb" />
     <Compile Include="Data_type.vb" />
+    <Compile Include="Do_Until_Loop.vb" />
+    <Compile Include="Do_While_Loop.vb" />
+    <Compile Include="Exit_Statement.vb" />
+    <Compile Include="For_Each_loop.vb" />
+    <Compile Include="For_Next_Loop.vb" />
+    <Compile Include="For_Next_Loop_Multiplication_Table.vb" />
+    <Compile Include="For_Next_Loop_Pattern.vb" />
     <Compile Include="Global_scope.vb" />
+    <Compile Include="Go_To_Statement.vb" />
     <Compile Include="HelloWorld.vb" />
     <Compile Include="Identifiers.vb" />
+    <Compile Include="If_Then_ElseIf_statement.vb" />
+    <Compile Include="If_Then_Else_Statement.vb" />
+    <Compile Include="If_Then_Statement.vb" />
     <Compile Include="Local_Scope.vb" />
     <Compile Include="Logic_Bitwise.vb" />
     <Compile Include="Misc_Operator.vb" />
@@ -99,8 +111,11 @@
     </Compile>
     <Compile Include="Operators.vb" />
     <Compile Include="Operator_Precedence.vb" />
+    <Compile Include="Select_Case_Statement.vb" />
     <Compile Include="Type_Conversion_Functions.vb" />
     <Compile Include="Variables.vb" />
+    <Compile Include="While_End_Loop.vb" />
+    <Compile Include="With_Statement.vb" />
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="My Project\Resources.resx">
