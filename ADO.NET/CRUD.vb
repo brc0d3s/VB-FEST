@@ -52,6 +52,7 @@ Public Class CRUD
             cmd.ExecuteNonQuery()
             con.Close()
 
+
             MessageBox.Show("Data successfully added")
 
             LoadData()
@@ -187,12 +188,16 @@ Public Class CRUD
 
             Dim pdfTable As New PdfPTable(dgv.Columns.Count)
             For Each column As DataGridViewColumn In dgv.Columns
-                pdfTable.AddCell(column.HeaderText)
+                If column.HeaderText IsNot Nothing Then
+                    pdfTable.AddCell(column.HeaderText)
+                End If
             Next
 
             For Each row As DataGridViewRow In dgv.Rows
                 For Each cell As DataGridViewCell In row.Cells
-                    pdfTable.AddCell(cell.Value.ToString())
+                    If cell.Value IsNot Nothing Then
+                        pdfTable.AddCell(cell.Value.ToString())
+                    End If
                 Next
             Next
 

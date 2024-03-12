@@ -88,6 +88,12 @@
     <Compile Include="CRUD.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="LstNumbers.Designer.vb">
+      <DependentUpon>LstNumbers.vb</DependentUpon>
+    </Compile>
+    <Compile Include="LstNumbers.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
       <AutoGen>True</AutoGen>
@@ -104,16 +110,28 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
+    <Compile Include="RainMeter.Designer.vb">
+      <DependentUpon>RainMeter.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RainMeter.vb">
+      <SubType>Form</SubType>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="CRUD.resx">
       <DependentUpon>CRUD.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LstNumbers.resx">
+      <DependentUpon>LstNumbers.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="My Project\Resources.resx">
       <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.vb</LastGenOutput>
       <CustomToolNamespace>My.Resources</CustomToolNamespace>
       <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RainMeter.resx">
+      <DependentUpon>RainMeter.vb</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>

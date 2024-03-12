@@ -9,3 +9,15 @@ C:\Users\brc0d3s\Desktop\VB-FEST\VB-FEST\bin\Debug\VB-FEST.xml
 C:\Users\brc0d3s\Desktop\VB-FEST\VB-FEST\obj\Debug\VB-FEST.exe
 C:\Users\brc0d3s\Desktop\VB-FEST\VB-FEST\obj\Debug\VB-FEST.xml
 C:\Users\brc0d3s\Desktop\VB-FEST\VB-FEST\obj\Debug\VB-FEST.pdb
+C:\Users\STUDENT.DESKTOP-DGHILVH\Desktop\VB-FEST\VB-FEST\bin\Debug\VB-FEST.exe.config
+C:\Users\STUDENT.DESKTOP-DGHILVH\Desktop\VB-FEST\VB-FEST\bin\Debug\VB-FEST.exe
+C:\Users\STUDENT.DESKTOP-DGHILVH\Desktop\VB-FEST\VB-FEST\bin\Debug\VB-FEST.pdb
+C:\Users\STUDENT.DESKTOP-DGHILVH\Desktop\VB-FEST\VB-FEST\bin\Debug\VB-FEST.xml
+C:\Users\STUDENT.DESKTOP-DGHILVH\Desktop\VB-FEST\VB-FEST\obj\Debug\VB-FEST.vbproj.AssemblyReference.cache
+C:\Users\STUDENT.DESKTOP-DGHILVH\Desktop\VB-FEST\VB-FEST\obj\Debug\VB-FEST.vbproj.SuggestedBindingRedirects.cache
+C:\Users\STUDENT.DESKTOP-DGHILVH\Desktop\VB-FEST\VB-FEST\obj\Debug\VB_FEST.Resources.resources
+C:\Users\STUDENT.DESKTOP-DGHILVH\Desktop\VB-FEST\VB-FEST\obj\Debug\VB-FEST.vbproj.GenerateResource.cache
+C:\Users\STUDENT.DESKTOP-DGHILVH\Desktop\VB-FEST\VB-FEST\obj\Debug\VB-FEST.vbproj.CoreCompileInputs.cache
+C:\Users\STUDENT.DESKTOP-DGHILVH\Desktop\VB-FEST\VB-FEST\obj\Debug\VB-FEST.exe
+C:\Users\STUDENT.DESKTOP-DGHILVH\Desktop\VB-FEST\VB-FEST\obj\Debug\VB-FEST.xml
+C:\Users\STUDENT.DESKTOP-DGHILVH\Desktop\VB-FEST\VB-FEST\obj\Debug\VB-FEST.pdb
