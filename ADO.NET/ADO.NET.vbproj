@@ -82,10 +82,22 @@
     <Import Include="System.Threading.Tasks" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BMI.Designer.vb">
+      <DependentUpon>BMI.vb</DependentUpon>
+    </Compile>
+    <Compile Include="BMI.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="CRUD.Designer.vb">
       <DependentUpon>CRUD.vb</DependentUpon>
     </Compile>
     <Compile Include="CRUD.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Function_Operations.Designer.vb">
+      <DependentUpon>Function_Operations.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Function_Operations.vb">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="LstNumbers.Designer.vb">
@@ -118,8 +130,14 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <EmbeddedResource Include="BMI.resx">
+      <DependentUpon>BMI.vb</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="CRUD.resx">
       <DependentUpon>CRUD.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Function_Operations.resx">
+      <DependentUpon>Function_Operations.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="LstNumbers.resx">
       <DependentUpon>LstNumbers.vb</DependentUpon>

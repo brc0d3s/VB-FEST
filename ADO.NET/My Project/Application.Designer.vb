@@ -32,7 +32,7 @@ Namespace My
         
         <Global.System.Diagnostics.DebuggerStepThroughAttribute()>  _
         Protected Overrides Sub OnCreateMainForm()
-            Me.MainForm = Global.ADO.NET.LstNumbers
+            Me.MainForm = Global.ADO.NET.BMI
         End Sub
     End Class
 End Namespace
