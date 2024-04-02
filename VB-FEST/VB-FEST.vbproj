@@ -6,7 +6,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{17FF18A6-4171-4576-9CD4-A9FE2534DEE3}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <StartupObject>VB_FEST.String_object</StartupObject>
+    <StartupObject>VB_FEST.Find_Sum</StartupObject>
     <RootNamespace>VB_FEST</RootNamespace>
     <AssemblyName>VB-FEST</AssemblyName>
     <FileAlignment>512</FileAlignment>
@@ -69,7 +69,10 @@
     <Import Include="System.Threading.Tasks" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AList.vb" />
     <Compile Include="Arithmetic_Operator.vb" />
+    <Compile Include="Array_Hash.vb" />
+    <Compile Include="Ar_List.vb" />
     <Compile Include="Assign_Operator.vb" />
     <Compile Include="BitShift_Operator.vb" />
     <Compile Include="Comparison_Operator.vb" />
@@ -78,12 +81,15 @@
     <Compile Include="Data_type.vb" />
     <Compile Include="Do_Until_Loop.vb" />
     <Compile Include="Do_While_Loop.vb" />
+    <Compile Include="Dynamic_Arr.vb" />
     <Compile Include="EnumProgram.vb" />
     <Compile Include="Exit_Statement.vb" />
+    <Compile Include="Find_Sum.vb" />
     <Compile Include="For_Each_loop.vb" />
     <Compile Include="For_Next_Loop.vb" />
     <Compile Include="For_Next_Loop_Multiplication_Table.vb" />
     <Compile Include="For_Next_Loop_Pattern.vb" />
+    <Compile Include="Get_Chars.vb" />
     <Compile Include="Global_scope.vb" />
     <Compile Include="Go_To_Statement.vb" />
     <Compile Include="HelloWorld.vb" />
@@ -91,10 +97,12 @@
     <Compile Include="If_Then_ElseIf_statement.vb" />
     <Compile Include="If_Then_Else_Statement.vb" />
     <Compile Include="If_Then_Statement.vb" />
+    <Compile Include="Input_array.vb" />
     <Compile Include="Local_Scope.vb" />
     <Compile Include="Logic_Bitwise.vb" />
     <Compile Include="Misc_Operator.vb" />
     <Compile Include="Module_scope.vb" />
+    <Compile Include="MultidimenArray.vb" />
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
       <AutoGen>True</AutoGen>
@@ -110,9 +118,15 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
+    <Compile Include="NameVal.vb" />
+    <Compile Include="num_Array.vb" />
     <Compile Include="Operators.vb" />
     <Compile Include="Operator_Precedence.vb" />
+    <Compile Include="Que_col.vb" />
     <Compile Include="Select_Case_Statement.vb" />
+    <Compile Include="Stack_Collection.vb" />
+    <Compile Include="String_cmp.vb" />
+    <Compile Include="String_concate.vb" />
     <Compile Include="String_object.vb" />
     <Compile Include="Type_Conversion_Functions.vb" />
     <Compile Include="Variables.vb" />

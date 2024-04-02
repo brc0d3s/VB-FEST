@@ -69,3 +69,5 @@ C:\Users\STUDENT.DESKTOP-DGHILVH\Desktop\VB-FEST\ADO.NET\obj\Debug\ADO.NET.exe
 C:\Users\STUDENT.DESKTOP-DGHILVH\Desktop\VB-FEST\ADO.NET\obj\Debug\ADO.NET.xml
 C:\Users\STUDENT.DESKTOP-DGHILVH\Desktop\VB-FEST\ADO.NET\obj\Debug\ADO.NET.pdb
 C:\Users\STUDENT.DESKTOP-DGHILVH\Desktop\VB-FEST\ADO.NET\obj\Debug\ADO.NET.LstNumbers.resources
+C:\Users\brc0d3s\Desktop\VB-FEST\ADO.NET\obj\Debug\ADO.NET.LstNumbers.resources
+C:\Users\brc0d3s\Desktop\VB-FEST\ADO.NET\obj\Debug\ADO.NET.RainMeter.resources

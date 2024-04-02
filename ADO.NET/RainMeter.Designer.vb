@@ -36,25 +36,26 @@ Partial Class RainMeter
         Me.btnMedian = New System.Windows.Forms.Button()
         Me.btnHighest = New System.Windows.Forms.Button()
         Me.btnLowest = New System.Windows.Forms.Button()
+        Me.btnEnter = New System.Windows.Forms.Button()
         Me.SuspendLayout()
         '
         'txtTotal
         '
-        Me.txtTotal.Location = New System.Drawing.Point(123, 110)
+        Me.txtTotal.Location = New System.Drawing.Point(123, 206)
         Me.txtTotal.Name = "txtTotal"
         Me.txtTotal.Size = New System.Drawing.Size(100, 20)
         Me.txtTotal.TabIndex = 1
         '
         'txtAverage
         '
-        Me.txtAverage.Location = New System.Drawing.Point(346, 110)
+        Me.txtAverage.Location = New System.Drawing.Point(346, 206)
         Me.txtAverage.Name = "txtAverage"
         Me.txtAverage.Size = New System.Drawing.Size(100, 20)
         Me.txtAverage.TabIndex = 2
         '
         'btnTotal
         '
-        Me.btnTotal.Location = New System.Drawing.Point(104, 43)
+        Me.btnTotal.Location = New System.Drawing.Point(104, 152)
         Me.btnTotal.Name = "btnTotal"
         Me.btnTotal.Size = New System.Drawing.Size(119, 23)
         Me.btnTotal.TabIndex = 3
@@ -63,7 +64,7 @@ Partial Class RainMeter
         '
         'btnAverage
         '
-        Me.btnAverage.Location = New System.Drawing.Point(341, 43)
+        Me.btnAverage.Location = New System.Drawing.Point(346, 152)
         Me.btnAverage.Name = "btnAverage"
         Me.btnAverage.Size = New System.Drawing.Size(105, 23)
         Me.btnAverage.TabIndex = 4
@@ -72,7 +73,7 @@ Partial Class RainMeter
         '
         'btnMode
         '
-        Me.btnMode.Location = New System.Drawing.Point(104, 214)
+        Me.btnMode.Location = New System.Drawing.Point(104, 296)
         Me.btnMode.Name = "btnMode"
         Me.btnMode.Size = New System.Drawing.Size(119, 23)
         Me.btnMode.TabIndex = 5
@@ -81,42 +82,42 @@ Partial Class RainMeter
         '
         'txtMedian
         '
-        Me.txtMedian.Location = New System.Drawing.Point(346, 285)
+        Me.txtMedian.Location = New System.Drawing.Point(595, 298)
         Me.txtMedian.Name = "txtMedian"
         Me.txtMedian.Size = New System.Drawing.Size(100, 20)
         Me.txtMedian.TabIndex = 6
         '
         'txtMode
         '
-        Me.txtMode.Location = New System.Drawing.Point(114, 285)
+        Me.txtMode.Location = New System.Drawing.Point(245, 298)
         Me.txtMode.Name = "txtMode"
         Me.txtMode.Size = New System.Drawing.Size(100, 20)
         Me.txtMode.TabIndex = 7
         '
         'txtHighest
         '
-        Me.txtHighest.Location = New System.Drawing.Point(576, 285)
+        Me.txtHighest.Location = New System.Drawing.Point(245, 391)
         Me.txtHighest.Name = "txtHighest"
         Me.txtHighest.Size = New System.Drawing.Size(100, 20)
         Me.txtHighest.TabIndex = 8
         '
         'txtDeviation
         '
-        Me.txtDeviation.Location = New System.Drawing.Point(576, 110)
+        Me.txtDeviation.Location = New System.Drawing.Point(586, 206)
         Me.txtDeviation.Name = "txtDeviation"
         Me.txtDeviation.Size = New System.Drawing.Size(100, 20)
         Me.txtDeviation.TabIndex = 9
         '
         'txtLowest
         '
-        Me.txtLowest.Location = New System.Drawing.Point(427, 390)
+        Me.txtLowest.Location = New System.Drawing.Point(595, 387)
         Me.txtLowest.Name = "txtLowest"
         Me.txtLowest.Size = New System.Drawing.Size(100, 20)
         Me.txtLowest.TabIndex = 10
         '
         'btnDeviation
         '
-        Me.btnDeviation.Location = New System.Drawing.Point(557, 43)
+        Me.btnDeviation.Location = New System.Drawing.Point(576, 152)
         Me.btnDeviation.Name = "btnDeviation"
         Me.btnDeviation.Size = New System.Drawing.Size(119, 23)
         Me.btnDeviation.TabIndex = 11
@@ -125,7 +126,7 @@ Partial Class RainMeter
         '
         'btnMedian
         '
-        Me.btnMedian.Location = New System.Drawing.Point(341, 214)
+        Me.btnMedian.Location = New System.Drawing.Point(452, 295)
         Me.btnMedian.Name = "btnMedian"
         Me.btnMedian.Size = New System.Drawing.Size(119, 23)
         Me.btnMedian.TabIndex = 12
@@ -134,7 +135,7 @@ Partial Class RainMeter
         '
         'btnHighest
         '
-        Me.btnHighest.Location = New System.Drawing.Point(557, 204)
+        Me.btnHighest.Location = New System.Drawing.Point(104, 387)
         Me.btnHighest.Name = "btnHighest"
         Me.btnHighest.Size = New System.Drawing.Size(119, 23)
         Me.btnHighest.TabIndex = 13
@@ -143,18 +144,29 @@ Partial Class RainMeter
         '
         'btnLowest
         '
-        Me.btnLowest.Location = New System.Drawing.Point(247, 390)
+        Me.btnLowest.Location = New System.Drawing.Point(452, 389)
         Me.btnLowest.Name = "btnLowest"
         Me.btnLowest.Size = New System.Drawing.Size(119, 23)
         Me.btnLowest.TabIndex = 14
         Me.btnLowest.Text = "Lowest Value"
         Me.btnLowest.UseVisualStyleBackColor = True
         '
+        'btnEnter
+        '
+        Me.btnEnter.ForeColor = System.Drawing.Color.Red
+        Me.btnEnter.Location = New System.Drawing.Point(346, 41)
+        Me.btnEnter.Name = "btnEnter"
+        Me.btnEnter.Size = New System.Drawing.Size(165, 51)
+        Me.btnEnter.TabIndex = 15
+        Me.btnEnter.Text = "CLICK TO ENTER VALUES"
+        Me.btnEnter.UseVisualStyleBackColor = True
+        '
         'RainMeter
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(800, 450)
+        Me.Controls.Add(Me.btnEnter)
         Me.Controls.Add(Me.btnLowest)
         Me.Controls.Add(Me.btnHighest)
         Me.Controls.Add(Me.btnMedian)
@@ -190,4 +202,5 @@ Partial Class RainMeter
     Friend WithEvents btnMedian As Button
     Friend WithEvents btnHighest As Button
     Friend WithEvents btnLowest As Button
+    Friend WithEvents btnEnter As Button
 End Class
