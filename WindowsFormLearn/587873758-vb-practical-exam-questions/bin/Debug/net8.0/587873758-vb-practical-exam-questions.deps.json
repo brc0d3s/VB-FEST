@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "587873758-vb-practical-exam-questions/1.0.0": {
+        "runtime": {
+          "587873758-vb-practical-exam-questions.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "587873758-vb-practical-exam-questions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

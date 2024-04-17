@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "iV5J21fxmziUh230Hl55rt0bueHVO1CiXLm387+/5Qy6MSlItTRUiyo3DBGynZv9YAiDGggTNrRkqynEX+Ml2g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\brc0d3s\\Desktop\\VB-FEST\\ADO\\ADO.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\brc0d3s\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\brc0d3s\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\brc0d3s\\.nuget\\packages\\npgsql\\8.0.2\\npgsql.8.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

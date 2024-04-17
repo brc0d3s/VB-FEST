@@ -1,0 +1,15 @@
+C:\Users\brc0d3s\Desktop\VB-FEST\WindowsFormLearn\587873758-vb-practical-exam-questions\bin\Debug\net8.0\587873758-vb-practical-exam-questions.exe
+C:\Users\brc0d3s\Desktop\VB-FEST\WindowsFormLearn\587873758-vb-practical-exam-questions\bin\Debug\net8.0\587873758-vb-practical-exam-questions.deps.json
+C:\Users\brc0d3s\Desktop\VB-FEST\WindowsFormLearn\587873758-vb-practical-exam-questions\bin\Debug\net8.0\587873758-vb-practical-exam-questions.runtimeconfig.json
+C:\Users\brc0d3s\Desktop\VB-FEST\WindowsFormLearn\587873758-vb-practical-exam-questions\bin\Debug\net8.0\587873758-vb-practical-exam-questions.dll
+C:\Users\brc0d3s\Desktop\VB-FEST\WindowsFormLearn\587873758-vb-practical-exam-questions\bin\Debug\net8.0\587873758-vb-practical-exam-questions.pdb
+C:\Users\brc0d3s\Desktop\VB-FEST\WindowsFormLearn\587873758-vb-practical-exam-questions\obj\Debug\net8.0\587873758-vb-practical-exam-questions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brc0d3s\Desktop\VB-FEST\WindowsFormLearn\587873758-vb-practical-exam-questions\obj\Debug\net8.0\587873758-vb-practical-exam-questions.AssemblyInfoInputs.cache
+C:\Users\brc0d3s\Desktop\VB-FEST\WindowsFormLearn\587873758-vb-practical-exam-questions\obj\Debug\net8.0\587873758-vb-practical-exam-questions.AssemblyInfo.vb
+C:\Users\brc0d3s\Desktop\VB-FEST\WindowsFormLearn\587873758-vb-practical-exam-questions\obj\Debug\net8.0\587873758-vb-practical-exam-questions.vbproj.CoreCompileInputs.cache
+C:\Users\brc0d3s\Desktop\VB-FEST\WindowsFormLearn\587873758-vb-practical-exam-questions\obj\Debug\net8.0\587873758-vb-practical-exam-questions.sourcelink.json
+C:\Users\brc0d3s\Desktop\VB-FEST\WindowsFormLearn\587873758-vb-practical-exam-questions\obj\Debug\net8.0\587873758-vb-practical-exam-questions.dll
+C:\Users\brc0d3s\Desktop\VB-FEST\WindowsFormLearn\587873758-vb-practical-exam-questions\obj\Debug\net8.0\refint\587873758-vb-practical-exam-questions.dll
+C:\Users\brc0d3s\Desktop\VB-FEST\WindowsFormLearn\587873758-vb-practical-exam-questions\obj\Debug\net8.0\587873758-vb-practical-exam-questions.pdb
+C:\Users\brc0d3s\Desktop\VB-FEST\WindowsFormLearn\587873758-vb-practical-exam-questions\obj\Debug\net8.0\587873758-vb-practical-exam-questions.genruntimeconfig.cache
+C:\Users\brc0d3s\Desktop\VB-FEST\WindowsFormLearn\587873758-vb-practical-exam-questions\obj\Debug\net8.0\ref\587873758-vb-practical-exam-questions.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "590310644-Solved-VB-NET-Lab-List/1.0.0": {
+        "runtime": {
+          "590310644-Solved-VB-NET-Lab-List.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "590310644-Solved-VB-NET-Lab-List/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

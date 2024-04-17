@@ -1,0 +1,17 @@
+C:\Users\brc0d3s\Desktop\VB-FEST\WindowsFormLearn\571923034-YugalVB\obj\Debug\net8.0-windows\_571923034_YugalVB.RectangleandSquare.resources
+C:\Users\brc0d3s\Desktop\VB-FEST\WindowsFormLearn\571923034-YugalVB\obj\Debug\net8.0-windows\571923034-YugalVB.vbproj.GenerateResource.cache
+C:\Users\brc0d3s\Desktop\VB-FEST\WindowsFormLearn\571923034-YugalVB\obj\Debug\net8.0-windows\571923034-YugalVB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brc0d3s\Desktop\VB-FEST\WindowsFormLearn\571923034-YugalVB\obj\Debug\net8.0-windows\571923034-YugalVB.AssemblyInfoInputs.cache
+C:\Users\brc0d3s\Desktop\VB-FEST\WindowsFormLearn\571923034-YugalVB\obj\Debug\net8.0-windows\571923034-YugalVB.AssemblyInfo.vb
+C:\Users\brc0d3s\Desktop\VB-FEST\WindowsFormLearn\571923034-YugalVB\obj\Debug\net8.0-windows\571923034-YugalVB.vbproj.CoreCompileInputs.cache
+C:\Users\brc0d3s\Desktop\VB-FEST\WindowsFormLearn\571923034-YugalVB\obj\Debug\net8.0-windows\571923034-YugalVB.sourcelink.json
+C:\Users\brc0d3s\Desktop\VB-FEST\WindowsFormLearn\571923034-YugalVB\bin\Debug\net8.0-windows\571923034-YugalVB.exe
+C:\Users\brc0d3s\Desktop\VB-FEST\WindowsFormLearn\571923034-YugalVB\bin\Debug\net8.0-windows\571923034-YugalVB.deps.json
+C:\Users\brc0d3s\Desktop\VB-FEST\WindowsFormLearn\571923034-YugalVB\bin\Debug\net8.0-windows\571923034-YugalVB.runtimeconfig.json
+C:\Users\brc0d3s\Desktop\VB-FEST\WindowsFormLearn\571923034-YugalVB\bin\Debug\net8.0-windows\571923034-YugalVB.dll
+C:\Users\brc0d3s\Desktop\VB-FEST\WindowsFormLearn\571923034-YugalVB\bin\Debug\net8.0-windows\571923034-YugalVB.pdb
+C:\Users\brc0d3s\Desktop\VB-FEST\WindowsFormLearn\571923034-YugalVB\obj\Debug\net8.0-windows\571923034-YugalVB.dll
+C:\Users\brc0d3s\Desktop\VB-FEST\WindowsFormLearn\571923034-YugalVB\obj\Debug\net8.0-windows\refint\571923034-YugalVB.dll
+C:\Users\brc0d3s\Desktop\VB-FEST\WindowsFormLearn\571923034-YugalVB\obj\Debug\net8.0-windows\571923034-YugalVB.pdb
+C:\Users\brc0d3s\Desktop\VB-FEST\WindowsFormLearn\571923034-YugalVB\obj\Debug\net8.0-windows\571923034-YugalVB.genruntimeconfig.cache
+C:\Users\brc0d3s\Desktop\VB-FEST\WindowsFormLearn\571923034-YugalVB\obj\Debug\net8.0-windows\ref\571923034-YugalVB.dll

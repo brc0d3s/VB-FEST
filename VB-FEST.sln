@@ -5,7 +5,7 @@ VisualStudioVersion = 17.9.34616.47
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "VB-FEST", "VB-FEST\VB-FEST.vbproj", "{17FF18A6-4171-4576-9CD4-A9FE2534DEE3}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ADO.NET", "ADO.NET\ADO.NET.vbproj", "{7B75728A-A482-400B-A083-CC194CBBF2AC}"
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ADO", "ADO\ADO.vbproj", "{9672D8AD-12CB-4FB2-91BD-D48E8F7D5D94}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{17FF18A6-4171-4576-9CD4-A9FE2534DEE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{17FF18A6-4171-4576-9CD4-A9FE2534DEE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{17FF18A6-4171-4576-9CD4-A9FE2534DEE3}.Release|Any CPU.Build.0 = Release|Any CPU
-		{7B75728A-A482-400B-A083-CC194CBBF2AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7B75728A-A482-400B-A083-CC194CBBF2AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7B75728A-A482-400B-A083-CC194CBBF2AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7B75728A-A482-400B-A083-CC194CBBF2AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9672D8AD-12CB-4FB2-91BD-D48E8F7D5D94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9672D8AD-12CB-4FB2-91BD-D48E8F7D5D94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9672D8AD-12CB-4FB2-91BD-D48E8F7D5D94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9672D8AD-12CB-4FB2-91BD-D48E8F7D5D94}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,17 @@
+C:\Users\brc0d3s\Desktop\VB-FEST\WindowsFormLearn\Questions\bin\Debug\net8.0-windows\Questions.exe
+C:\Users\brc0d3s\Desktop\VB-FEST\WindowsFormLearn\Questions\bin\Debug\net8.0-windows\Questions.deps.json
+C:\Users\brc0d3s\Desktop\VB-FEST\WindowsFormLearn\Questions\bin\Debug\net8.0-windows\Questions.runtimeconfig.json
+C:\Users\brc0d3s\Desktop\VB-FEST\WindowsFormLearn\Questions\bin\Debug\net8.0-windows\Questions.dll
+C:\Users\brc0d3s\Desktop\VB-FEST\WindowsFormLearn\Questions\bin\Debug\net8.0-windows\Questions.pdb
+C:\Users\brc0d3s\Desktop\VB-FEST\WindowsFormLearn\Questions\obj\Debug\net8.0-windows\Questions.FactorialCalculator.resources
+C:\Users\brc0d3s\Desktop\VB-FEST\WindowsFormLearn\Questions\obj\Debug\net8.0-windows\Questions.vbproj.GenerateResource.cache
+C:\Users\brc0d3s\Desktop\VB-FEST\WindowsFormLearn\Questions\obj\Debug\net8.0-windows\Questions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brc0d3s\Desktop\VB-FEST\WindowsFormLearn\Questions\obj\Debug\net8.0-windows\Questions.AssemblyInfoInputs.cache
+C:\Users\brc0d3s\Desktop\VB-FEST\WindowsFormLearn\Questions\obj\Debug\net8.0-windows\Questions.AssemblyInfo.vb
+C:\Users\brc0d3s\Desktop\VB-FEST\WindowsFormLearn\Questions\obj\Debug\net8.0-windows\Questions.vbproj.CoreCompileInputs.cache
+C:\Users\brc0d3s\Desktop\VB-FEST\WindowsFormLearn\Questions\obj\Debug\net8.0-windows\Questions.sourcelink.json
+C:\Users\brc0d3s\Desktop\VB-FEST\WindowsFormLearn\Questions\obj\Debug\net8.0-windows\Questions.dll
+C:\Users\brc0d3s\Desktop\VB-FEST\WindowsFormLearn\Questions\obj\Debug\net8.0-windows\refint\Questions.dll
+C:\Users\brc0d3s\Desktop\VB-FEST\WindowsFormLearn\Questions\obj\Debug\net8.0-windows\Questions.pdb
+C:\Users\brc0d3s\Desktop\VB-FEST\WindowsFormLearn\Questions\obj\Debug\net8.0-windows\Questions.genruntimeconfig.cache
+C:\Users\brc0d3s\Desktop\VB-FEST\WindowsFormLearn\Questions\obj\Debug\net8.0-windows\ref\Questions.dll

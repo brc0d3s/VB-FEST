@@ -6,7 +6,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{17FF18A6-4171-4576-9CD4-A9FE2534DEE3}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <StartupObject>VB_FEST.Find_Sum</StartupObject>
+    <StartupObject>VB_FEST.ArrayVerificationModule</StartupObject>
     <RootNamespace>VB_FEST</RootNamespace>
     <AssemblyName>VB-FEST</AssemblyName>
     <FileAlignment>512</FileAlignment>
@@ -71,6 +71,7 @@
   <ItemGroup>
     <Compile Include="AList.vb" />
     <Compile Include="Arithmetic_Operator.vb" />
+    <Compile Include="ArrayVerificationModule.vb" />
     <Compile Include="Array_Hash.vb" />
     <Compile Include="Ar_List.vb" />
     <Compile Include="Assign_Operator.vb" />
