@@ -3,6 +3,62 @@
   "WorkspaceRootPath": "C:\\Users\\brc0d3s\\Desktop\\VB-FEST\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{109F6580-A789-4676-A1C1-C8A96F8F0ED4}|OOP\\OOP.vbproj|c:\\users\\brc0d3s\\desktop\\vb-fest\\oop\\inheritance_vb.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{109F6580-A789-4676-A1C1-C8A96F8F0ED4}|OOP\\OOP.vbproj|solutionrelative:oop\\inheritance_vb.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{109F6580-A789-4676-A1C1-C8A96F8F0ED4}|OOP\\OOP.vbproj|c:\\users\\brc0d3s\\desktop\\vb-fest\\oop\\abstraction_vb.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{109F6580-A789-4676-A1C1-C8A96F8F0ED4}|OOP\\OOP.vbproj|solutionrelative:oop\\abstraction_vb.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{109F6580-A789-4676-A1C1-C8A96F8F0ED4}|OOP\\OOP.vbproj|c:\\users\\brc0d3s\\desktop\\vb-fest\\oop\\encapsulation_vb.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{109F6580-A789-4676-A1C1-C8A96F8F0ED4}|OOP\\OOP.vbproj|solutionrelative:oop\\encapsulation_vb.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{109F6580-A789-4676-A1C1-C8A96F8F0ED4}|OOP\\OOP.vbproj|c:\\users\\brc0d3s\\desktop\\vb-fest\\oop\\protected_access_modifier.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{109F6580-A789-4676-A1C1-C8A96F8F0ED4}|OOP\\OOP.vbproj|solutionrelative:oop\\protected_access_modifier.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{109F6580-A789-4676-A1C1-C8A96F8F0ED4}|OOP\\OOP.vbproj|c:\\users\\brc0d3s\\desktop\\vb-fest\\oop\\partial_class.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{109F6580-A789-4676-A1C1-C8A96F8F0ED4}|OOP\\OOP.vbproj|solutionrelative:oop\\partial_class.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{109F6580-A789-4676-A1C1-C8A96F8F0ED4}|OOP\\OOP.vbproj|c:\\users\\brc0d3s\\desktop\\vb-fest\\oop\\me_keyword.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{109F6580-A789-4676-A1C1-C8A96F8F0ED4}|OOP\\OOP.vbproj|solutionrelative:oop\\me_keyword.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{109F6580-A789-4676-A1C1-C8A96F8F0ED4}|OOP\\OOP.vbproj|c:\\users\\brc0d3s\\desktop\\vb-fest\\oop\\destructor_example.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{109F6580-A789-4676-A1C1-C8A96F8F0ED4}|OOP\\OOP.vbproj|solutionrelative:oop\\destructor_example.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{109F6580-A789-4676-A1C1-C8A96F8F0ED4}|OOP\\OOP.vbproj|c:\\users\\brc0d3s\\desktop\\vb-fest\\oop\\private_constructor.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{109F6580-A789-4676-A1C1-C8A96F8F0ED4}|OOP\\OOP.vbproj|solutionrelative:oop\\private_constructor.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{109F6580-A789-4676-A1C1-C8A96F8F0ED4}|OOP\\OOP.vbproj|c:\\users\\brc0d3s\\desktop\\vb-fest\\oop\\copy_constructor.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{109F6580-A789-4676-A1C1-C8A96F8F0ED4}|OOP\\OOP.vbproj|solutionrelative:oop\\copy_constructor.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{109F6580-A789-4676-A1C1-C8A96F8F0ED4}|OOP\\OOP.vbproj|c:\\users\\brc0d3s\\desktop\\vb-fest\\oop\\constructor_chaining.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{109F6580-A789-4676-A1C1-C8A96F8F0ED4}|OOP\\OOP.vbproj|solutionrelative:oop\\constructor_chaining.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{109F6580-A789-4676-A1C1-C8A96F8F0ED4}|OOP\\OOP.vbproj|c:\\users\\brc0d3s\\desktop\\vb-fest\\oop\\constructor_overloading.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{109F6580-A789-4676-A1C1-C8A96F8F0ED4}|OOP\\OOP.vbproj|solutionrelative:oop\\constructor_overloading.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{109F6580-A789-4676-A1C1-C8A96F8F0ED4}|OOP\\OOP.vbproj|c:\\users\\brc0d3s\\desktop\\vb-fest\\oop\\parameterized_constructor.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{109F6580-A789-4676-A1C1-C8A96F8F0ED4}|OOP\\OOP.vbproj|solutionrelative:oop\\parameterized_constructor.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{109F6580-A789-4676-A1C1-C8A96F8F0ED4}|OOP\\OOP.vbproj|c:\\users\\brc0d3s\\desktop\\vb-fest\\oop\\default_constructor.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{109F6580-A789-4676-A1C1-C8A96F8F0ED4}|OOP\\OOP.vbproj|solutionrelative:oop\\default_constructor.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{109F6580-A789-4676-A1C1-C8A96F8F0ED4}|OOP\\OOP.vbproj|c:\\users\\brc0d3s\\desktop\\vb-fest\\oop\\objects_creation.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{109F6580-A789-4676-A1C1-C8A96F8F0ED4}|OOP\\OOP.vbproj|solutionrelative:oop\\objects_creation.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9672D8AD-12CB-4FB2-91BD-D48E8F7D5D94}|ADO\\ADO.vbproj|C:\\Users\\brc0d3s\\Desktop\\VB-FEST\\ado\\crud.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{9672D8AD-12CB-4FB2-91BD-D48E8F7D5D94}|ADO\\ADO.vbproj|solutionrelative:ado\\crud.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
@@ -23,19 +79,201 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Inheritance_VB.vb",
+              "DocumentMoniker": "C:\\Users\\brc0d3s\\Desktop\\VB-FEST\\OOP\\Inheritance_VB.vb",
+              "RelativeDocumentMoniker": "OOP\\Inheritance_VB.vb",
+              "ToolTip": "C:\\Users\\brc0d3s\\Desktop\\VB-FEST\\OOP\\Inheritance_VB.vb",
+              "RelativeToolTip": "OOP\\Inheritance_VB.vb",
+              "ViewState": "AQIAABoAAAAAAAAAAAAIwA4AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-18T09:45:14.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Abstraction_VB.vb",
+              "DocumentMoniker": "C:\\Users\\brc0d3s\\Desktop\\VB-FEST\\OOP\\Abstraction_VB.vb",
+              "RelativeDocumentMoniker": "OOP\\Abstraction_VB.vb",
+              "ToolTip": "C:\\Users\\brc0d3s\\Desktop\\VB-FEST\\OOP\\Abstraction_VB.vb",
+              "RelativeToolTip": "OOP\\Abstraction_VB.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-18T09:35:33.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Encapsulation_VB.vb",
+              "DocumentMoniker": "C:\\Users\\brc0d3s\\Desktop\\VB-FEST\\OOP\\Encapsulation_VB.vb",
+              "RelativeDocumentMoniker": "OOP\\Encapsulation_VB.vb",
+              "ToolTip": "C:\\Users\\brc0d3s\\Desktop\\VB-FEST\\OOP\\Encapsulation_VB.vb",
+              "RelativeToolTip": "OOP\\Encapsulation_VB.vb",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAwwB8AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-18T09:04:25.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Protected_Access_Modifier.vb",
+              "DocumentMoniker": "C:\\Users\\brc0d3s\\Desktop\\VB-FEST\\OOP\\Protected_Access_Modifier.vb",
+              "RelativeDocumentMoniker": "OOP\\Protected_Access_Modifier.vb",
+              "ToolTip": "C:\\Users\\brc0d3s\\Desktop\\VB-FEST\\OOP\\Protected_Access_Modifier.vb",
+              "RelativeToolTip": "OOP\\Protected_Access_Modifier.vb",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAgwBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-18T08:43:02.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Partial_Class.vb",
+              "DocumentMoniker": "C:\\Users\\brc0d3s\\Desktop\\VB-FEST\\OOP\\Partial_Class.vb",
+              "RelativeDocumentMoniker": "OOP\\Partial_Class.vb",
+              "ToolTip": "C:\\Users\\brc0d3s\\Desktop\\VB-FEST\\OOP\\Partial_Class.vb",
+              "RelativeToolTip": "OOP\\Partial_Class.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-18T08:26:38.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Me_Keyword.vb",
+              "DocumentMoniker": "C:\\Users\\brc0d3s\\Desktop\\VB-FEST\\OOP\\Me_Keyword.vb",
+              "RelativeDocumentMoniker": "OOP\\Me_Keyword.vb",
+              "ToolTip": "C:\\Users\\brc0d3s\\Desktop\\VB-FEST\\OOP\\Me_Keyword.vb",
+              "RelativeToolTip": "OOP\\Me_Keyword.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-18T08:14:28.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Destructor_Example.vb",
+              "DocumentMoniker": "C:\\Users\\brc0d3s\\Desktop\\VB-FEST\\OOP\\Destructor_Example.vb",
+              "RelativeDocumentMoniker": "OOP\\Destructor_Example.vb",
+              "ToolTip": "C:\\Users\\brc0d3s\\Desktop\\VB-FEST\\OOP\\Destructor_Example.vb",
+              "RelativeToolTip": "OOP\\Destructor_Example.vb",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAwwBsAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-18T08:03:44.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Private_Constructor.vb",
+              "DocumentMoniker": "C:\\Users\\brc0d3s\\Desktop\\VB-FEST\\OOP\\Private_Constructor.vb",
+              "RelativeDocumentMoniker": "OOP\\Private_Constructor.vb",
+              "ToolTip": "C:\\Users\\brc0d3s\\Desktop\\VB-FEST\\OOP\\Private_Constructor.vb",
+              "RelativeToolTip": "OOP\\Private_Constructor.vb",
+              "ViewState": "AQIAABMAAAAAAAAAAAAqwBwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-18T07:51:23.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Copy_Constructor.vb",
+              "DocumentMoniker": "C:\\Users\\brc0d3s\\Desktop\\VB-FEST\\OOP\\Copy_Constructor.vb",
+              "RelativeDocumentMoniker": "OOP\\Copy_Constructor.vb",
+              "ToolTip": "C:\\Users\\brc0d3s\\Desktop\\VB-FEST\\OOP\\Copy_Constructor.vb",
+              "RelativeToolTip": "OOP\\Copy_Constructor.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-18T07:44:39.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Constructor_Chaining.vb",
+              "DocumentMoniker": "C:\\Users\\brc0d3s\\Desktop\\VB-FEST\\OOP\\Constructor_Chaining.vb",
+              "RelativeDocumentMoniker": "OOP\\Constructor_Chaining.vb",
+              "ToolTip": "C:\\Users\\brc0d3s\\Desktop\\VB-FEST\\OOP\\Constructor_Chaining.vb",
+              "RelativeToolTip": "OOP\\Constructor_Chaining.vb",
+              "ViewState": "AQIAABcAAAAAAAAAAAAowBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-18T07:33:51.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Constructor_Overloading.vb",
+              "DocumentMoniker": "C:\\Users\\brc0d3s\\Desktop\\VB-FEST\\OOP\\Constructor_Overloading.vb",
+              "RelativeDocumentMoniker": "OOP\\Constructor_Overloading.vb",
+              "ToolTip": "C:\\Users\\brc0d3s\\Desktop\\VB-FEST\\OOP\\Constructor_Overloading.vb",
+              "RelativeToolTip": "OOP\\Constructor_Overloading.vb",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAwwBcAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-18T07:04:10.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Parameterized_Constructor.vb",
+              "DocumentMoniker": "C:\\Users\\brc0d3s\\Desktop\\VB-FEST\\OOP\\Parameterized_Constructor.vb",
+              "RelativeDocumentMoniker": "OOP\\Parameterized_Constructor.vb",
+              "ToolTip": "C:\\Users\\brc0d3s\\Desktop\\VB-FEST\\OOP\\Parameterized_Constructor.vb",
+              "RelativeToolTip": "OOP\\Parameterized_Constructor.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-18T07:01:33.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Default_Constructor.vb",
+              "DocumentMoniker": "C:\\Users\\brc0d3s\\Desktop\\VB-FEST\\OOP\\Default_Constructor.vb",
+              "RelativeDocumentMoniker": "OOP\\Default_Constructor.vb",
+              "ToolTip": "C:\\Users\\brc0d3s\\Desktop\\VB-FEST\\OOP\\Default_Constructor.vb",
+              "RelativeToolTip": "OOP\\Default_Constructor.vb",
+              "ViewState": "AQIAABEAAAAAAAAAAAA9wAsAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-18T06:58:34.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Objects_Creation.vb",
+              "DocumentMoniker": "C:\\Users\\brc0d3s\\Desktop\\VB-FEST\\OOP\\Objects_Creation.vb",
+              "RelativeDocumentMoniker": "OOP\\Objects_Creation.vb",
+              "ToolTip": "C:\\Users\\brc0d3s\\Desktop\\VB-FEST\\OOP\\Objects_Creation.vb",
+              "RelativeToolTip": "OOP\\Objects_Creation.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-18T06:50:28.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "CRUD.vb",
               "DocumentMoniker": "C:\\Users\\brc0d3s\\Desktop\\VB-FEST\\ADO\\CRUD.vb",
               "RelativeDocumentMoniker": "ADO\\CRUD.vb",
               "ToolTip": "C:\\Users\\brc0d3s\\Desktop\\VB-FEST\\ADO\\CRUD.vb",
               "RelativeToolTip": "ADO\\CRUD.vb",
-              "ViewState": "AQIAAEQAAAAAAAAAAAAUwGsAAAAAAAAA",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAUwFkAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2024-04-16T09:12:05.815Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 15,
               "Title": "CRUD.vb [Design]",
               "DocumentMoniker": "C:\\Users\\brc0d3s\\Desktop\\VB-FEST\\ADO\\CRUD.vb",
               "RelativeDocumentMoniker": "ADO\\CRUD.vb",

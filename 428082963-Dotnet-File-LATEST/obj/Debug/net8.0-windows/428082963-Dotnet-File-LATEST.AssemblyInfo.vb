@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("428082963-Dotnet-File-LATEST"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8b4a7402816145d19c02e51682cfacc9be5fadeb"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+22a899a6441c67f7890cb94b9afa3bfe57746ad6"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("428082963-Dotnet-File-LATEST"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("428082963-Dotnet-File-LATEST"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _
